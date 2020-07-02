@@ -5,7 +5,9 @@ I will write a manual
 
 
 template adaptive!
-using : (Back) Js (Front) HTML CSS Js
+using : 
+(Back) Js
+(Front) HTML CSS Js
 
 
 -------------------------------------------EDIT BY MAX CODER-BYTE------------------------------------------------
