@@ -1,2 +1,6 @@
-# Template-site-Darkrp-gmod
-in this project, I will gradually make a website template for your DarkRP project, if the project shows interest in the project, I will make a personal account and auto-donate, everything is in your hands :)
+------------------------------------------DARK RP SITE-----------------------------------------------------------
+
+everything will be in the template! pictures (additional) you just need to change the name and so on, if you can’t edit
+I will write a manual
+
+-------------------------------------------EDIT BY MAX CODER-BYTE------------------------------------------------
