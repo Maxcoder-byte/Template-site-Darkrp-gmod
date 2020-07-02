@@ -5,15 +5,7 @@ I will write a manual
 
 
 template adaptive!
---------------using languages---------- 
-(Fronted)
-JavaScripts
-HTML
-CSS
-(Backend)
-JavaScripts
---------------using languages---------- 
-
+using : (Back) Js (Front) HTML CSS Js
 
 
 -------------------------------------------EDIT BY MAX CODER-BYTE------------------------------------------------
